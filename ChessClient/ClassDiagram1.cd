@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessClient.ChessClient">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MSAOBLAIEAAAAABQAAACAAAAAAAEEAQAEAgAMAAAAQA=</HashCode>
+      <FileName>ChessClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessClient.UserInfo">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAAgA=</HashCode>
+      <FileName>UserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ChessClient.GameInfo">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAIAAAEAAAACAAABAAAAAAAAAAAAAAAEgA=</HashCode>
+      <FileName>GameInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

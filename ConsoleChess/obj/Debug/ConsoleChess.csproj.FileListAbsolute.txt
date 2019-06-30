@@ -1,0 +1,10 @@
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\bin\Debug\ConsoleChess.exe.config
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\bin\Debug\ConsoleChess.exe
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\bin\Debug\ConsoleChess.pdb
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\bin\Debug\ChessClient.dll
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\bin\Debug\ChessClient.pdb
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.csproj.CopyComplete
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.exe
+C:\Users\danii\source\repos\ChessClient\ConsoleChess\obj\Debug\ConsoleChess.pdb

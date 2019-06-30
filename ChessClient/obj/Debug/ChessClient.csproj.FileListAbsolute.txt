@@ -1,0 +1,6 @@
+C:\Users\danii\source\repos\ChessClient\ChessClient\bin\Debug\ChessClient.dll
+C:\Users\danii\source\repos\ChessClient\ChessClient\bin\Debug\ChessClient.pdb
+C:\Users\danii\source\repos\ChessClient\ChessClient\obj\Debug\ChessClient.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ChessClient\ChessClient\obj\Debug\ChessClient.dll
+C:\Users\danii\source\repos\ChessClient\ChessClient\obj\Debug\ChessClient.pdb
+C:\Users\danii\source\repos\ChessClient\ChessClient\obj\Debug\ChessClient.csprojAssemblyReference.cache
